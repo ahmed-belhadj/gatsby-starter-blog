@@ -3,7 +3,7 @@ module.exports = {
     title: `Ahmed Belhadj Blog`,
     author: `Ahmed Belhadj`,
     description: `A blog demonstrating what Ahmed can do.`,
-    siteUrl: `https://ahmed-belhadj-blog.netlify.com/`,
+    siteUrl: `https://blog.ahmedbelhadj.com/`,
     social: {
       twitter: `hmedbel`,
     },
