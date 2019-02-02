@@ -31,10 +31,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Austin, TX building useful things.
+              Written by <strong>{author}</strong> who lives and works in
+              Austin, TX building useful things.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Follow me on Twitter!
               </a>
             </p>
           </div>
